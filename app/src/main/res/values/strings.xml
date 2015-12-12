@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyTry</string>
+    <string name="action_settings">Settings</string>
+    <string name="baseUrlImage">http://image.tmdb.org/t/p/</string>
+    <string name="mainUrl">http://api.themoviedb.org/3/discover/movie?</string>
+    <string name="api_key"></string>
+    <string name="top_rated">top_rating.desc</string>
+    <string name="popularity">popularity.desc</string>
+</resources>
